@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "339683757571",
+    "project_id": "thingz-tasks",
+    "storage_bucket": "thingz-tasks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339683757571:android:9b9521451866100a4f0836",
+        "android_client_info": {
+          "package_name": "hu.thingz.tasks.tasks_thingz_hu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339683757571-p9ngk4583ourhbke6ss2aimclmvtkrd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hu.thingz.tasks.tasks_thingz_hu",
+            "certificate_hash": "19f482c4cbacd62a435db9bf875ae2b8688cc7d9"
+          }
+        },
+        {
+          "client_id": "339683757571-hvthvaes9i80rnq7mucqiud371gp45ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEUmBnjDOwdIOL2s7HB3OBtjUs6_wDJtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339683757571-hvthvaes9i80rnq7mucqiud371gp45ua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

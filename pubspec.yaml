@@ -1,0 +1,25 @@
+name: tasks_thingz_hu
+description: Official task management app by thingz. 
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  google_fonts: ^2.1.0
+  firebase_core: ^1.3.0
+  cloud_firestore: ^2.2.2
+  intl: ^0.17.0
+  loading_indicator: ^2.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+
+  uses-material-design: true
+  #assets:
